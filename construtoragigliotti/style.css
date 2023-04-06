@@ -1,0 +1,19 @@
+.triple_bar{
+position: absolute;	
+text-align: center;
+margin-top: -16mm;	
+}
+.menu{
+ font-family: sans-serif;
+ text-align:right;
+ margin-top: 12mm;	
+}
+
+a{
+font-size:16px;
+color:#5b2335;	
+}
+
+.logo{
+  max-height: 25mm; 	
+}

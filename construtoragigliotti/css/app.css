@@ -1,0 +1,152 @@
+/* Código geral, que será herdado por qualquer dispositivos.
+   nesse caso, seria o código usado no desktop, na maioria das   vezes. 
+   Se você já conhecer a ideia do Mobile First, esse primeiro código será destinado para mobiles.
+/*Header  Nav e Logo*/
+
+*{
+  margin: 0;
+  padding: 0;
+  font-family: Montserrat;
+}
+body{
+background-color:floralwhite;    
+}
+header{
+background-color: aquamarine;
+position: fixed;
+width: 95%;
+margin-bottom: 89px;    
+}
+.imagem{
+height: 2mm;
+float: right;
+margin-top:5mm;
+padding-left: 3mm;    
+}
+#logo{
+padding-left: 3em;
+height: 15mm;    
+}
+nav{
+margin-top: -7mm;
+
+}
+nav a{
+margin-right: 19mm;
+margin-left: -15mm;    
+}
+ul li a{
+padding left: -3cm;    
+}
+nav a:hover{
+color:#5a2338;
+opacity: 00.3;    
+}
+/*Carrousell e meio do site */
+#carrousel{
+margin-top: -20mm;     
+}
+/*Footer e roda pe*/
+#under-menu a{
+text-decoration: none;
+color: white;
+
+}
+.imagens-inf{
+ height: 12mm;   
+}
+#sub-content sub-about sub-menu {
+position: absolute;
+width: 20%;    
+margin-top: -34px;  
+}
+@media only screen and (max-width:776px) {
+*{
+  margin: 0;
+  padding: 0;
+  font-family: Montserrat;
+}
+body{
+background-color:floralwhite;    
+}
+header{
+background-color: aquamarine;
+position: fixed;
+width: 92.7%;
+margin-bottom: 89px;    
+}
+.imagem{
+height: 13mm;
+float: right;    
+}
+#logo{
+padding-left: 9em;
+    
+}
+.text-center{
+margin-top: -9mm;        
+}    
+}
+@media only screen and (max-width:300px){
+*{
+  margin: 0;
+  padding: 0;
+  font-family: Montserrat;
+}
+body{
+background-color:floralwhite;    
+}
+header{
+background-color: aquamarine;
+position: fixed;
+width: 95%;
+margin-bottom: 89px;    
+}
+.imagem{
+height: 2mm;
+float: right;
+margin-top:5mm;
+padding-left: 3mm;    
+}
+#logo{
+padding-left: 3em;
+height: 15mm;    
+}
+nav{
+margin-top: -7mm;
+width: 10mm;
+    
+}
+nav a{
+margin-right: -56px;
+margin-left:0;
+    
+}
+ul li a{
+padding left:0;
+display: block;    
+}
+nav a:hover{
+color:#5a2338;
+opacity: 00.3;    
+}
+/*Carrousell e meio do site */
+#carrousel{
+margin-top: -20mm;     
+}
+/*Footer e roda pe*/
+#under-menu a{
+text-decoration: none;
+color: white;
+
+}
+.imagens-inf{
+ height: 12mm;   
+}
+#sub-content sub-about sub-menu {
+position: absolute;
+width: 20%;    
+margin-top: -34px;  
+}   
+    
+} 

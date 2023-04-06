@@ -1,0 +1,59 @@
+</header> 
+        <div class="row">
+            <div class="larger-12 cell" id="header">
+                <h1>Rapidez, inovação e qualidade!<br>A Gigliotti tem a melhor Solução pra você.</h1>
+                <hr id="hr">
+                <p>atuamos na aréa de construção civil,com os melhores prazos de entrega buscando sempre inovar e com os os melhores materiais na construção de imoveis novos e reformas.</p>
+            </div>
+            <div class="grid-x grid-margin-x">
+                <div class="cell medium-4 large-4">
+                    <img src="imagens/inovacao.png">
+                </div>
+                <div class="cell medium-4 large-4">
+                    <img src="/imagens/qualidades.png">
+                </div>
+                <div class="cell medium-4 large-4">
+                    <img src="imagens/rapidez.png">
+                </div>
+                <div class="row">
+                    <h1 class="text-center">Quem é a Gigliotti construtora e incorporadora?</h1>
+                    <h2 class="text-center">Uma empressa empenhada nas melhores soluçoes onde a satisfação de nossos clientes e nosso alvo!</h2>
+                    <p class="text-center">O nosso trabalho è transformar sonhos em realidade, atraves de uma equipe empenhada na inovação de nossos processos, Estamos constantemente visando a melhorias de nossos serviços, parcerias que nos tragam rapidez.</p>
+                </div>
+            </div>
+        </div>
+        
+            <content>
+               <div class="grid-x grid-margin-x">
+                   <div class=" cell medium-6 large-6">              
+                       <h3 class="text-left">Constução</h3>
+                        <p class="text-left">Realizamos a sua costrução<br> de pequeno porte.</p>
+                    <h3>Terrenos</h3>
+                        <p class="text-left">Capitamos os melhores terrenos<br> para voce, no local em que deseja<br> e com o melhores preços.</p>
+                     <h3>Projetos arquitetonicos</h3>
+                        <p class="text-left">Desenvolvemos projetos para<br>construção e reformas, mostre-nos.<br> qual o seu sonho</p>
+                     <h3>Mão de obra</h3>
+                         <p class="text-left">Realizamos a sua construção<br> ou reforma, com preços justos<br> e uma equipe treinada.</p>
+                     </div>
+                    <div class="cell medium-3 large-3">  
+                     <h3 class="text-right">Reformas</h3>
+                     <p class="text-right">Realizamos a sua construção<br> ou reforma, com preços justos<br> e uma equipe treinada.</p>
+                     <h3 class="text-right">Documentação</h3>
+                     <p class="text-right">Realizamos a sua construção<br> ou reforma, com preços justos<br> e uma equipe treinada.</p>
+                   </div>
+                </div>   
+            </content>  
+                <div class="row">
+                    <div class="larger-12 cell" id="sub-content">
+                                                
+                    </div>
+
+                </div>
+            
+            
+            <footer>
+
+            </footer>
+
+
+
